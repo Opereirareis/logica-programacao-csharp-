@@ -2,8 +2,6 @@
 
 Este repositório reúne todos os exercícios práticos e materiais desenvolvidos durante o curso de **C#** e **Lógica de Programação**, realizado entre **03/10/2025 e 12/2025**.
 
-O curso de Lógica de Programação ocorreu no período de **23/10/2025 a 11/12/2025**, sempre às **terças e quintas**, das **14h00 às 17h00**.
-
 ---
 
 ## 🎯 Objetivo
