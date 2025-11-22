@@ -57,6 +57,7 @@ Este repositório será atualizado conforme o avanço dos estudos e das prática
 
 curso-csharp-2025
 
+```  
 /
 ├── docs/
 │   ├── descricao-do-curso.md
@@ -76,3 +77,4 @@ curso-csharp-2025
 │   └── logica.cs
 │
 └── README.md
+```
