@@ -1,4 +1,4 @@
-# Curso de C# e Lógica de Programação — 2025
+# Curso de C# e Lógica de Programação — Senac 2025
 
 Este repositório reúne todos os exercícios práticos e materiais desenvolvidos durante o curso de **C#** e **Lógica de Programação**, realizado entre **03/10/2025 e 12/2025**.
 
