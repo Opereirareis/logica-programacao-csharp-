@@ -1,0 +1,29 @@
+C:\Users\ana.cscunha1\source\repos\variaveiseconstantes\bin\Debug\net8.0\variaveiseconstantes.exe
+C:\Users\ana.cscunha1\source\repos\variaveiseconstantes\bin\Debug\net8.0\variaveiseconstantes.deps.json
+C:\Users\ana.cscunha1\source\repos\variaveiseconstantes\bin\Debug\net8.0\variaveiseconstantes.runtimeconfig.json
+C:\Users\ana.cscunha1\source\repos\variaveiseconstantes\bin\Debug\net8.0\variaveiseconstantes.dll
+C:\Users\ana.cscunha1\source\repos\variaveiseconstantes\bin\Debug\net8.0\variaveiseconstantes.pdb
+C:\Users\ana.cscunha1\source\repos\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ana.cscunha1\source\repos\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.AssemblyInfoInputs.cache
+C:\Users\ana.cscunha1\source\repos\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.AssemblyInfo.cs
+C:\Users\ana.cscunha1\source\repos\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.csproj.CoreCompileInputs.cache
+C:\Users\ana.cscunha1\source\repos\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.dll
+C:\Users\ana.cscunha1\source\repos\variaveiseconstantes\obj\Debug\net8.0\refint\variaveiseconstantes.dll
+C:\Users\ana.cscunha1\source\repos\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.pdb
+C:\Users\ana.cscunha1\source\repos\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.genruntimeconfig.cache
+C:\Users\ana.cscunha1\source\repos\variaveiseconstantes\obj\Debug\net8.0\ref\variaveiseconstantes.dll
+G:\Meu Drive\Gestão e Conteudo - Atthos\Sites\Curso-De-Logica-Csharp-\variaveiseconstantes\bin\Debug\net8.0\variaveiseconstantes.exe
+G:\Meu Drive\Gestão e Conteudo - Atthos\Sites\Curso-De-Logica-Csharp-\variaveiseconstantes\bin\Debug\net8.0\variaveiseconstantes.deps.json
+G:\Meu Drive\Gestão e Conteudo - Atthos\Sites\Curso-De-Logica-Csharp-\variaveiseconstantes\bin\Debug\net8.0\variaveiseconstantes.runtimeconfig.json
+G:\Meu Drive\Gestão e Conteudo - Atthos\Sites\Curso-De-Logica-Csharp-\variaveiseconstantes\bin\Debug\net8.0\variaveiseconstantes.dll
+G:\Meu Drive\Gestão e Conteudo - Atthos\Sites\Curso-De-Logica-Csharp-\variaveiseconstantes\bin\Debug\net8.0\variaveiseconstantes.pdb
+G:\Meu Drive\Gestão e Conteudo - Atthos\Sites\Curso-De-Logica-Csharp-\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.GeneratedMSBuildEditorConfig.editorconfig
+G:\Meu Drive\Gestão e Conteudo - Atthos\Sites\Curso-De-Logica-Csharp-\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.AssemblyInfoInputs.cache
+G:\Meu Drive\Gestão e Conteudo - Atthos\Sites\Curso-De-Logica-Csharp-\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.AssemblyInfo.cs
+G:\Meu Drive\Gestão e Conteudo - Atthos\Sites\Curso-De-Logica-Csharp-\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.csproj.CoreCompileInputs.cache
+G:\Meu Drive\Gestão e Conteudo - Atthos\Sites\Curso-De-Logica-Csharp-\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.sourcelink.json
+G:\Meu Drive\Gestão e Conteudo - Atthos\Sites\Curso-De-Logica-Csharp-\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.dll
+G:\Meu Drive\Gestão e Conteudo - Atthos\Sites\Curso-De-Logica-Csharp-\variaveiseconstantes\obj\Debug\net8.0\refint\variaveiseconstantes.dll
+G:\Meu Drive\Gestão e Conteudo - Atthos\Sites\Curso-De-Logica-Csharp-\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.pdb
+G:\Meu Drive\Gestão e Conteudo - Atthos\Sites\Curso-De-Logica-Csharp-\variaveiseconstantes\obj\Debug\net8.0\variaveiseconstantes.genruntimeconfig.cache
+G:\Meu Drive\Gestão e Conteudo - Atthos\Sites\Curso-De-Logica-Csharp-\variaveiseconstantes\obj\Debug\net8.0\ref\variaveiseconstantes.dll
