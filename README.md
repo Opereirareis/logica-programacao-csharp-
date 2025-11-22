@@ -55,8 +55,9 @@ Consolidar os fundamentos da linguagem C# e compreender os princípios base de l
 Este repositório será atualizado conforme o avanço dos estudos e das práticas propostas no curso.
 
 
-curso-csharp-2025/
-│
+curso-csharp-2025
+
+/
 ├── docs/
 │   ├── descricao-do-curso.md
 │   ├── cronograma.md
